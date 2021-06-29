@@ -1,0 +1,1 @@
+Make GTIP colum type as number without any remainder/fraction so the GTIP numbers would be displated properly.
